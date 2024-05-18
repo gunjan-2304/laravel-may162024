@@ -8,7 +8,7 @@ class CityController extends Controller
 {
     //1. property
     //2. contructor
-    //3. method
+    //3. methods  
 
     public function jaipur()
     {
